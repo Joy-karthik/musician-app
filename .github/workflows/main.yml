@@ -2,7 +2,7 @@ name: Node.js CI with Codacy
 
 on:
   push:
-    branches: [ Master ]
+    branches: [ master ]
 
 jobs:
   build:
